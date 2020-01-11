@@ -1,0 +1,138 @@
+17:29:56 - INFO - Loading movie lines.
+17:29:56 - INFO - Loaded movie lines.
+17:29:56 - DEBUG - Q - Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again.
+17:29:56 - DEBUG - A - Well, I thought we'd start with pronunciation, if that's okay with you.
+17:29:56 - DEBUG - 
+17:29:56 - DEBUG - Q - Well, I thought we'd start with pronunciation, if that's okay with you.
+17:29:56 - DEBUG - A - Not the hacking and gagging and spitting part.  Please.
+17:29:56 - DEBUG - 
+17:29:56 - DEBUG - Q - Not the hacking and gagging and spitting part.  Please.
+17:29:56 - DEBUG - A - Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?
+17:29:56 - DEBUG - 
+17:29:56 - DEBUG - Q - You're asking me out.  That's so cute. What's your name again?
+17:29:56 - DEBUG - A - Forget it.
+17:29:56 - DEBUG - 
+17:29:56 - DEBUG - Q - No, no, it's my fault -- we didn't have a proper introduction ---
+17:29:56 - DEBUG - A - Cameron.
+17:29:56 - DEBUG - 
+17:30:08 - DEBUG - Q - can we make this quick  roxanne korrine and andrew barrett are having an incredibly horrendous public break up on the quad  again
+17:30:08 - DEBUG - A - well i thought we would start with pronunciation if that is okay with you
+17:30:08 - DEBUG - 
+17:30:08 - DEBUG - Q - well i thought we would start with pronunciation if that is okay with you
+17:30:08 - DEBUG - A - not the hacking and gagging and spitting part  please
+17:30:08 - DEBUG - 
+17:30:08 - DEBUG - Q - not the hacking and gagging and spitting part  please
+17:30:08 - DEBUG - A - okay then how about we try out some french cuisine  saturday  night
+17:30:08 - DEBUG - 
+17:30:08 - DEBUG - Q - you are asking me out  that is so cute that is your name again
+17:30:08 - DEBUG - A - forget it
+17:30:08 - DEBUG - 
+17:30:08 - DEBUG - Q - no no it is my fault  we did not have a proper introduction 
+17:30:08 - DEBUG - A - cameron
+17:30:08 - DEBUG - 
+17:30:09 - INFO -               counts
+count  443232.000000
+mean       10.872094
+std        12.215895
+min         0.000000
+25%         4.000000
+50%         7.000000
+75%        14.000000
+max       555.000000
+17:30:09 - INFO - 80th Percentile Length: 16.0
+17:30:09 - INFO - 85th Percentile Length: 19.0
+17:30:09 - INFO - 90th Percentile Length: 24.0
+17:30:09 - INFO - 95th Percentile Length: 32.0
+17:30:09 - INFO - 99th Percentile Length: 58.0
+17:30:09 - INFO - # of questions:	138335
+17:30:09 - INFO - # of answers:	138335
+17:30:09 - INFO - % of data used: 62.419999999999995%
+17:30:10 - INFO - Size of total vocab: 45618
+17:30:10 - INFO - Size of vocab used: 8092
+17:30:10 - DEBUG - len(questions_vocab_to_int)=8096
+17:30:10 - DEBUG - len(questions_int_to_vocab)=8096
+17:30:10 - DEBUG - len(answers_vocab_to_int)=8096
+17:30:10 - DEBUG - len(answers_int_to_vocab)=8096
+17:30:11 - INFO - Length of questions: 138335
+17:30:11 - INFO - Length of answers: 138335
+17:30:11 - INFO - Total word count: 2334533
+17:30:11 - INFO - Number of times <UNK> is used: 92436
+17:30:11 - INFO - Percent of words that are <UNK>: 3.96%
+17:30:12 - DEBUG - Sorted questions length is 138335
+17:30:12 - DEBUG - Sorted answers length is 138335
+17:30:12 - DEBUG - 
+17:30:12 - DEBUG - Q - [58, 48]
+17:30:12 - DEBUG - A - [1, 59, 59, 59, 60, 61, 62, 1, 63, 12, 64, 36, 65, 66, 8094]
+17:30:12 - DEBUG - Q - [1, 84]
+17:30:12 - DEBUG - A - [11, 192, 174, 55, 61, 21, 6, 8095, 159, 11, 8094]
+17:30:12 - DEBUG - Q - [0, 85]
+17:30:12 - DEBUG - A - [153, 8, 9, 165, 11, 467, 55, 271, 8094]
+17:31:57 - INFO - Loading movie lines.
+17:31:57 - INFO - Loaded movie lines.
+17:31:57 - DEBUG - Q - Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again.
+17:31:57 - DEBUG - A - Well, I thought we'd start with pronunciation, if that's okay with you.
+17:31:57 - DEBUG - 
+17:31:57 - DEBUG - Q - Well, I thought we'd start with pronunciation, if that's okay with you.
+17:31:57 - DEBUG - A - Not the hacking and gagging and spitting part.  Please.
+17:31:57 - DEBUG - 
+17:31:57 - DEBUG - Q - Not the hacking and gagging and spitting part.  Please.
+17:31:57 - DEBUG - A - Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?
+17:31:57 - DEBUG - 
+17:31:57 - DEBUG - Q - You're asking me out.  That's so cute. What's your name again?
+17:31:57 - DEBUG - A - Forget it.
+17:31:57 - DEBUG - 
+17:31:57 - DEBUG - Q - No, no, it's my fault -- we didn't have a proper introduction ---
+17:31:57 - DEBUG - A - Cameron.
+17:31:57 - DEBUG - 
+17:32:08 - DEBUG - Q - can we make this quick  roxanne korrine and andrew barrett are having an incredibly horrendous public break up on the quad  again
+17:32:08 - DEBUG - A - well i thought we would start with pronunciation if that is okay with you
+17:32:08 - DEBUG - 
+17:32:08 - DEBUG - Q - well i thought we would start with pronunciation if that is okay with you
+17:32:08 - DEBUG - A - not the hacking and gagging and spitting part  please
+17:32:08 - DEBUG - 
+17:32:08 - DEBUG - Q - not the hacking and gagging and spitting part  please
+17:32:08 - DEBUG - A - okay then how about we try out some french cuisine  saturday  night
+17:32:08 - DEBUG - 
+17:32:08 - DEBUG - Q - you are asking me out  that is so cute that is your name again
+17:32:08 - DEBUG - A - forget it
+17:32:08 - DEBUG - 
+17:32:08 - DEBUG - Q - no no it is my fault  we did not have a proper introduction 
+17:32:08 - DEBUG - A - cameron
+17:32:08 - DEBUG - 
+17:32:08 - INFO -               counts
+count  443232.000000
+mean       10.872094
+std        12.215895
+min         0.000000
+25%         4.000000
+50%         7.000000
+75%        14.000000
+max       555.000000
+17:32:08 - INFO - 80th Percentile Length: 16.0
+17:32:08 - INFO - 85th Percentile Length: 19.0
+17:32:08 - INFO - 90th Percentile Length: 24.0
+17:32:08 - INFO - 95th Percentile Length: 32.0
+17:32:08 - INFO - 99th Percentile Length: 58.0
+17:32:09 - INFO - # of questions:	138335
+17:32:09 - INFO - # of answers:	138335
+17:32:09 - INFO - % of data used: 62.419999999999995%
+17:32:10 - INFO - Size of total vocab: 45618
+17:32:10 - INFO - Size of vocab used: 8092
+17:32:10 - DEBUG - len(questions_vocab_to_int)=8096
+17:32:10 - DEBUG - len(questions_int_to_vocab)=8096
+17:32:10 - DEBUG - len(answers_vocab_to_int)=8096
+17:32:10 - DEBUG - len(answers_int_to_vocab)=8096
+17:32:11 - INFO - Length of questions: 138335
+17:32:11 - INFO - Length of answers: 138335
+17:32:11 - INFO - Total word count: 2334533
+17:32:11 - INFO - Number of times <UNK> is used: 92436
+17:32:11 - INFO - Percent of words that are <UNK>: 3.96%
+17:32:12 - DEBUG - Sorted questions length is 138335
+17:32:12 - DEBUG - Sorted answers length is 138335
+17:32:12 - DEBUG - 
+17:32:12 - DEBUG - Q - [58, 48]
+17:32:12 - DEBUG - A - [1, 59, 59, 59, 60, 61, 62, 1, 63, 12, 64, 36, 65, 66, 8094]
+17:32:12 - DEBUG - Q - [1, 84]
+17:32:12 - DEBUG - A - [11, 192, 174, 55, 61, 21, 6, 8095, 159, 11, 8094]
+17:32:12 - DEBUG - Q - [0, 85]
+17:32:12 - DEBUG - A - [153, 8, 9, 165, 11, 467, 55, 271, 8094]
